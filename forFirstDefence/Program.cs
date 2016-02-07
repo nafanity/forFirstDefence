@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hello,cruel world!!!");
             Console.WriteLine("Very cruel world!");
+            Console.WriteLine("bla bla");
             Console.ReadLine();
         }
     }
