@@ -1,0 +1,4 @@
+C:\Users\ВалькО\Documents\GitHub\forFirstDefence\forFirstDefence\forFirstDefence\bin\Debug\forFirstDefence.exe
+C:\Users\ВалькО\Documents\GitHub\forFirstDefence\forFirstDefence\forFirstDefence\bin\Debug\forFirstDefence.pdb
+C:\Users\ВалькО\Documents\GitHub\forFirstDefence\forFirstDefence\forFirstDefence\obj\x86\Debug\forFirstDefence.exe
+C:\Users\ВалькО\Documents\GitHub\forFirstDefence\forFirstDefence\forFirstDefence\obj\x86\Debug\forFirstDefence.pdb
