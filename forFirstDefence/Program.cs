@@ -11,7 +11,15 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hello,cruel world!!!");
             Console.WriteLine("Very cruel world!");
+<<<<<<< Updated upstream
             Console.WriteLine("bla bla");
+=======
+<<<<<<< HEAD
+            Console.WriteLine("Very cruel world!");
+=======
+            Console.WriteLine("bla bla");
+>>>>>>> origin/master
+>>>>>>> Stashed changes
             Console.ReadLine();
         }
     }
