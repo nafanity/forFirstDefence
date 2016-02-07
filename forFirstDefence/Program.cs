@@ -13,6 +13,7 @@ namespace ConsoleApplication1
             Console.WriteLine("Very cruel world!");
 <<<<<<< Updated upstream
             Console.WriteLine("bla bla");
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
             Console.WriteLine("Very cruel world!");
@@ -20,6 +21,10 @@ namespace ConsoleApplication1
             Console.WriteLine("bla bla");
 >>>>>>> origin/master
 >>>>>>> Stashed changes
+=======
+            Console.WriteLine("bla;");
+            Console.WriteLine("bobr");
+>>>>>>> origin/nafanity
             Console.ReadLine();
         }
     }
